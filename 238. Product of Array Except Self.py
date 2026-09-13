@@ -26,7 +26,7 @@ class Solution:
         ### return count
 
 
-        class Solution:
+class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         count = [1] * (len(nums))
         prefix = 1
